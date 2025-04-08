@@ -1,9 +1,54 @@
-Welcome to my GitHub profile. I'm Pedro Bittencourt and I'm a backend developer and System Analysis student.
+# 👋 Hi there, I'm Pedro Bittencourt
 
-Currently I'm focusing in web development and practicing Back End development with Python, FastAPI and PostgreSQL. I also have honed skills in TypeScript.
+🎓 I'm a **System Analysis student** and a passionate **Backend Developer** focused on building robust and scalable web applications.
 
-On my most recent professional project, we're devoloping a management system using NestJs as the backend framework and MongoDB database.
+---
 
-I have studied Front End Development technologies, such as React, Bootstrap and Tailwind.
+## 🚀 Current Focus
 
-I've also done some projects in Java and I love learning about Linux as well and working within the terminal. 
+I'm currently diving deep into:
+
+- 🐍 **Python** and **FastAPI** for API development  
+- 🐘 **PostgreSQL** for relational database management  
+- 🐳 **Docker** for containerization and environment consistency  
+- 🧪 Practicing **clean code**, **backend architecture**, and **API design principles**
+- 🛡️ Applying **API best practices** including structured error handling, logging, validation, authentication, and rate limiting
+
+---
+
+## 🧠 Tech Stack & Experience
+
+### 💻 Backend
+- **Python**, **FastAPI**
+- **TypeScript**, **NestJS**
+- **Java** (project experience)
+
+### 🗄️ Databases
+- **PostgreSQL**
+- **MongoDB**
+
+### 🛠️ DevOps & Tools
+- **Docker**
+- Comfortable with **Linux** and the terminal
+
+### 🎨 Frontend (studied)
+- **React**
+- **Tailwind CSS**, **Bootstrap**
+
+---
+
+## 💼 Professional Project
+
+On my most recent team project, we're developing a **veterinary management system** using:
+- **NestJS** (Backend)
+- **MongoDB** (Database)
+
+---
+
+## 📚 Always Learning
+
+I’m always exploring new technologies and tools to improve my craft — especially topics related to **software architecture**, **Linux environments**, and **automation**.
+
+---
+
+Thanks for stopping by! 👨‍💻 Feel free to check out my pinned repositories or connect with me!
