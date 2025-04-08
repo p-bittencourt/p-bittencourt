@@ -42,6 +42,7 @@ I'm currently diving deep into:
 On my most recent team project, we're developing a **veterinary management system** using:
 - **NestJS** (Backend)
 - **MongoDB** (Database)
+- **React** (Frontend)
 
 ---
 
